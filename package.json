@@ -1,0 +1,13 @@
+{
+  "name": "express-parameters",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "~4.10.2",
+    "file-system": "^2.2.2",
+    "mailgun-js": "^0.13.1",
+    "nodemailer": "^4.3.1",
+    "path": "^0.12.7",
+    "watson-developer-cloud": "^2.42.0"
+  }
+}
